@@ -1,0 +1,18 @@
+{
+  "name": "g-topo",
+  "version": "1.0.2",
+  "description": "基于G6封装的可视化拓扑图插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "G6",
+    "Topo"
+  ],
+  "author": "LilyUx",
+  "license": "ISC",
+  "dependencies": {
+    "@antv/g6": "^3.4.8"
+  }
+}
