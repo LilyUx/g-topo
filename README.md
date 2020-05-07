@@ -9,43 +9,43 @@
 1. 封装了多种类型的节点和连线
 	- zoomNode
 
-		![https://github.com/LilyUx/g-topo/blob/master/doc/zoomNode.gif]
+		![img](https://github.com/LilyUx/g-topo/blob/master/doc/zoomNode.gif)
 		
 		`type: 'zoom-node'`
 
 	- warningNode
 
-		![https://github.com/LilyUx/g-topo/blob/master/doc/warningNode.png]
+		![img](https://github.com/LilyUx/g-topo/blob/master/doc/warningNode.png)
 
 		`type: 'warning-node'`
 
 	- playWarnNode
 		
-		![https://github.com/LilyUx/g-topo/blob/master/doc/playWarnNode.gif]
+		![img](https://github.com/LilyUx/g-topo/blob/master/doc/playWarnNode.gif)
 
 		`type: 'play-warn-node'`
 
 	- flowEdge
 
-		![https://github.com/LilyUx/g-topo/blob/master/doc/flowEdge.gif]
+		![img](https://github.com/LilyUx/g-topo/blob/master/doc/flowEdge.gif)
 
 		`type: 'flow-edge'`
 
 	- flowInfoEdge
 
-		![https://github.com/LilyUx/g-topo/blob/master/doc/flowInfoEdge.gif]
+		![img](https://github.com/LilyUx/g-topo/blob/master/doc/flowInfoEdge.gif)
 
 		`type: 'flow-info-edge'`
 
 	- flowWarnEdge
 
-		![https://github.com/LilyUx/g-topo/blob/master/doc/flowWarnEdge.gif]
+		![img](https://github.com/LilyUx/g-topo/blob/master/doc/flowWarnEdge.gif)
 
 		`type: 'flow-warn-edge'`
 
 2. 封装了自定义behavior-（self-contextmenu）右键菜单
 
-	![https://github.com/LilyUx/g-topo/blob/master/doc/self-contextmenu.gif]
+	![img](https://github.com/LilyUx/g-topo/blob/master/doc/self-contextmenu.gif)
 	
 	* contextMenu可进行自定义
 	
