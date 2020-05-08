@@ -43,6 +43,12 @@
 
 		`type: 'flow-warn-edge'`
 
+	- quadraticLabelEdge 支持多条边  `edgeOffset: -20`
+
+		![img](https://github.com/LilyUx/g-topo/blob/master/doc/quadraticLabelEdge.gif)
+
+		`type: 'quadratic-label-edge'`
+
 2. 封装了自定义behavior-（self-contextmenu）右键菜单
 
 	![img](https://github.com/LilyUx/g-topo/blob/master/doc/self-contextmenu.gif)
