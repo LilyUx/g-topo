@@ -1,6 +1,6 @@
 {
   "name": "g-topo",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "基于G6封装的可视化拓扑图插件",
   "main": "index.js",
   "scripts": {
